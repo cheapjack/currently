@@ -5,6 +5,8 @@ A Clojure library designed to make sounds from currents
 ## Usage
 
 FIXME
+I'm just learning how to use git and clojure so this is barely a library
+Hopefully will develop this further soon
 
 ## License
 
