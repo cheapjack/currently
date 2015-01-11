@@ -1,12 +1,13 @@
 # currently
 
-A Clojure library designed to make sounds from currents
+A Clojure library designed to make sounds from currents using Overtone
 
 ## Usage
 
 FIXME
 I'm just learning how to use git and clojure so this is barely a library
 Hopefully will develop this further soon
+
 
 ## License
 
